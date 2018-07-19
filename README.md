@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Bengali Music Genre Classification using Machine Learning
 
-You can use the [editor on GitHub](https://github.com/m2rahim/music_genre_classification_ml/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The purpose of this project is to use machine learning to classify Bengali music into genres. The genres covered will be Classical (raaga), Rabindra Shongit, Nazrul Shongit, Instrumental and Modern Bengali "rock" music. 
 
 ### Markdown
 
